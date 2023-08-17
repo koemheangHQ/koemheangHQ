@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KoemHeang Am.
 - 🎲🎯 I'm Android & Flutter Developer. 
 - 👀 I’m interested in new Technologies. 
-- 🌱 I’m currently learning and researching android and flutter.
+- 🌱 I’m currently learning and researching android and flutter,iOS,Python,C#,MySQL,SQL Server,TensorFlow.
 - 💞️ I’m looking to collaborate on Android and Flutter community. 
 - 📫 How to reach me by Twitter and Instagram.
 
